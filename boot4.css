@@ -1,0 +1,34 @@
+.row
+    {
+        background-color: rgb(98, 98, 223);
+        text-align: center;
+        height: 90px;
+    }
+    .col
+    {
+        border: 6px solid white;
+    }
+    .col-2
+    {
+        border: 6px solid white;
+    }
+    .col-3
+    {
+        border: 6px solid white;
+    }
+    .col-4
+    {
+        border: 6px solid white;
+    }
+    .col-6
+    {
+        border: 6px solid white;
+    }
+    .col-8
+    {
+        border: 6px solid white;
+    }
+    .col-12
+    {
+        border: 6px solid white;
+    }
